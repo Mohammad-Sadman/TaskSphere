@@ -83,7 +83,7 @@ export default function Landing() {
       </div>
 
       <p className="mt-16 text-center text-sm text-gray-500 dark:text-gray-500">
-        Minhaj Hasan Rohan · Mohammad Sadman Tahiat · Mehedi Hasan Howlader
+        Minhaj Hasan Rohan · Mohammad Sadman Tahiat · Ahsan Miran
       </p>
     </div>
   );
